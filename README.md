@@ -3,14 +3,14 @@
 git clone https://github.com/BLACK-CYBER-TOOLS/LUT-Camera.git
 cd LUT-Camera
 ```
+# Unzip the file
+```bash
+unzip LUT-Camera.zip
+```
 # Remove existing files if any
 ```bash
 rm -rf *
 rm -rf .github
-```
-# Unzip the file
-```bash
-unzip LUT-Camera.zip
 ```
 # Create project structure
 ```bash
