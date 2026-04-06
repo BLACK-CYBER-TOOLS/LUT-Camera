@@ -8,7 +8,10 @@ cd LUT-Camera
 rm -rf *
 rm -rf .github
 ```
-
+# Unzip the file
+```bash
+unzip LUT-Camera.zip
+```
 # Create project structure
 ```bash
 mkdir -p .github/workflows
